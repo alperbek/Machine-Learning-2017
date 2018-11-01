@@ -14,9 +14,9 @@ Class time and Location: Saturday and Monday 08:00-10:00 AM (Fall 2018), Room 20
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
 ## Grading:
-Homework – 10%
-Midterm – 40%
-Endterm – 50%
+* Homework – 10%
+* Midterm – 40%
+* Endterm – 50%
 
 ## Questions?
 I’ll be having office hours for this course on Saturday 10:00 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
