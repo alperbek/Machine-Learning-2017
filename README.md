@@ -8,7 +8,9 @@ Learning algorithms are ubiquitous, and are playing an ever increasing role in o
 
 ## MAIN TEXTBOOK:
 [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David
-Class time and Location: Saturday and Monday 08:00-10:00 AM (Fall 2018), Room 204/1. 
+
+## Class time and Location: 
+Saturday and Monday 08:00-10:00 AM (Fall 2018), Room 204/1. 
 
 ## Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
