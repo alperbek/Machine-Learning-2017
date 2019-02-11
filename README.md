@@ -1,4 +1,4 @@
-# Machine-Learning-2017
+# Machine Learning (Spring 2017)
 [Course: Machine Learning at Shahid Beheshti University](http://facultymembers.sbu.ac.ir/hhaji/machine-learning-2017/) <br>
 [Data Science Center](http://ds.sbu.ac.ir)<br> 
 [Shahid Beheshti University](http://www.sbu.ac.ir/)
