@@ -1,7 +1,5 @@
-# Machine Learning (Spring 2017)
-[Course: Machine Learning at Shahid Beheshti University](http://facultymembers.sbu.ac.ir/hhaji/machine-learning-2017/) <br>
-[Data Science Center](http://ds.sbu.ac.ir)<br> 
-[Shahid Beheshti University](http://www.sbu.ac.ir/)
+Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
+[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)<br>
 
 ## Course Overview:
 Learning algorithms are ubiquitous, and are playing an ever increasing role in our daily lives. How are they different from any old algorithm? How can we reason about the ability of an algorithm to “learn from examples”, and classify data it has never seen? We will introduce the formal notions of learnability, generalization, supervised vs. unsupervised learning, etc. The goal is also to introduce the fundamental techniques and models that are central in today’s ML applications.
